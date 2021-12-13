@@ -52,5 +52,5 @@ function main1(input): number {
   return sousMarin.currentPos;
 }
 
-console.log(`Step 1 : inputTest=${main1(inputTest)}`);
-console.log(`Step 1 : input=${main1(input)}`);
+console.log(`Step 2 : inputTest=${main1(inputTest)}`);
+console.log(`Step 2 : input=${main1(input)}`);
